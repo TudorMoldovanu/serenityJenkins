@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: serenity.features.search.Test
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.003 sec <<< FAILURE! - in serenity.features.search.Test
-test2(serenity.features.search.Test)  Time elapsed: 0 sec  <<< FAILURE!
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.93 sec <<< FAILURE! - in serenity.features.search.Test
+test2(serenity.features.search.Test)  Time elapsed: 0.018 sec  <<< FAILURE!
 java.lang.AssertionError: null
-	at serenity.features.search.Test.test2(Test.java:14)
+	at serenity.features.search.Test.test2(Test.java:18)
 

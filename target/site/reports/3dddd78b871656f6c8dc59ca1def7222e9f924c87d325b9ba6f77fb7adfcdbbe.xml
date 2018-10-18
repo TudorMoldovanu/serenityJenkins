@@ -1,0 +1,8 @@
+<acceptance-test-run title="Test1" name="test1" steps="0" successful="0" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="70" timestamp="2018-10-18T13:23:40.463+03:00">
+  <user-story id="serenity.features.search.Test" name="Test" path="serenity.features.search"/>
+  <tags>
+    <tag name="Search" type="capability"/>
+    <tag name="Search" type="feature"/>
+    <tag name="Search/Test" type="story"/>
+  </tags>
+</acceptance-test-run>
